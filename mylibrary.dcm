@@ -1,0 +1,50 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 230AC
+K POWER, PWR
+$ENDCMP
+#
+$CMP 230acEMI
+K POWER, PWR
+$ENDCMP
+#
+$CMP 230rtnEMI
+D Live return
+K POWER, PWR, GND, GROUND
+$ENDCMP
+#
+$CMP 30DC
+K POWER, PWR
+$ENDCMP
+#
+$CMP 400dcRTN
+D Live return
+K POWER, PWR, GND, GROUND
+$ENDCMP
+#
+$CMP 74AC139
+D 1 to 4  demux
+$ENDCMP
+#
+$CMP AT45DB161E
+K data dataflash flash at atmel mb spi
+$ENDCMP
+#
+$CMP LM2596
+K dc/dc lm2596 2596 converter buck smps
+$ENDCMP
+#
+$CMP LM4040BIM3-2.5
+K voltage reference LM 4040 LM4040 2.5V 2V5
+$ENDCMP
+#
+$CMP Neutral
+D Live return
+K POWER, PWR, GND, GROUND
+$ENDCMP
+#
+$CMP TS7001
+D 12 bit ADC
+$ENDCMP
+#
+#End Doc Library
