@@ -38,6 +38,11 @@ $CMP LM4040BIM3-2.5
 K voltage reference LM 4040 LM4040 2.5V 2V5
 $ENDCMP
 #
+$CMP LT4320
+D Ideal Diode Bridge Controller
+K Ideal Diode
+$ENDCMP
+#
 $CMP Neutral
 D Live return
 K POWER, PWR, GND, GROUND
